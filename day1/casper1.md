@@ -1,6 +1,6 @@
 ---
 title: 1. Introduction to R Environment
-author: Vikram E. Chhatre 
+author: Braveen B. Joseph
 date: January 31, 2020
 ---
 
